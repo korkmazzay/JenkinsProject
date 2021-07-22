@@ -1,0 +1,22 @@
+Why local computers and laptops are not hosting websites?
+1) We have to keep laptop/computer on all the time
+2) We have to make sure its secure all the time
+3) We have to make sure the laptop or computer is always connected to power and internet
+For these reasons we use servers
+Always connected to power and high speed internet
+Special layers of physical security
+
+SDLC:
+1) BA collects the requirements from the client and creates
+software requirement specification SRS
+2) Architects will create the software design document
+3) Developers develop the code on local computers and once ready they run tests
+cases and once all the test cases are passed they will request the IT department
+to deploy this code to Dev Server
+4) QA will request IT or devops team to deploy the code on QA servers QA will verify the change and
+start testing it
+5) If required application is delayed on performance and security servers.
+6) Once everything is tested on QA server application is deployed on staging server
+7) Once testing is completed on staging it will be deployed on UAT servers
+8) Production server
+
